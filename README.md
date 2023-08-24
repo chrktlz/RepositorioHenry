@@ -1,2 +1,2 @@
 # RepositorioHenry
-ejercicio 01. del prepcourse
+ejercicio 01. del módulo 02.
